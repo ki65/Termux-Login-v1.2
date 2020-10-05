@@ -27,7 +27,7 @@
 
     mv README.md log.py /$HOME
 
-    Now you want autorun this log.py so follow this
+    Now you want auto run this log.py so follow this
 
     cd ..
     cd usr/etc/
@@ -36,6 +36,6 @@
 
     press ctrl + x and then y to save.
 
-    Now open Your Termux this script is autorun and secure termux.
+    Now open Your Termux this script is auto run and secure termux.
 
 
